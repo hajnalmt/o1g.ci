@@ -1,1 +1,1 @@
-# o1g.ci
+# Orbán szerintem egy geci.
